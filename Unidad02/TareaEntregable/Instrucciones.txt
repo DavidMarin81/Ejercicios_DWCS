@@ -1,0 +1,50 @@
+Ejercicios PHP:
+
+1. Crea un script que muestre un número aleatorio cada vez que se carga la página.
+
+2. Crea un script que, dado un valor numérico que estará almacenado en una variable llamada $valor devuelva ese valor multiplicado por 2.
+
+3. Crea un script que tenga una constante (variable que no puede cambiar de valor a lo largo del tiempo) muestra por pantalla el siguiente mensaje: "El valor de la constante es: <valor>"
+
+
+------------
+
+Crea el siguiente array en php.
+	$nums = array(5,3,8,1,10,2,3);
+
+4. Devuelve por pantalla el numero de elementos  que contiene el array.
+
+5. Recorre el array y multiplica cada elemento por 3
+
+6. Recorre el array y devuelve por pantalla unicamente los elementos múltiplos de 2
+
+7. Recorre el array y devuelve la suma de todos los elementos
+
+8. Ahora recorre el array mostrado su clave y valor. ¿Que claves tienen?
+
+------------
+
+Crea el siguiente array en php.
+
+$array = array(
+    "Titulo" => "Desarrollador backend php",
+    "Descripcion" => "Desarrollo de API y páginas web en php con Laravel",
+    "Sector" => "informatica",
+    "Salario" => "35000",
+    "Experiencia" => "2 años",
+    "Modalidad" => "Teletrabajo",
+    "Incorporación" => "Inmediata",
+
+);
+
+
+
+Crea una página web con html donde aparezca ("Oferta de trabajo" como H1)
+Y crear los H3 necesarios para cada elemento del array tal que:
+
+	OFERTA DE TRABAJO
+
+	Titulo: Desarrollador backend php
+	Descripción: Desarrollo ...
+
+
